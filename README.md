@@ -12,7 +12,7 @@ If you would like to include your paper or update any details (e.g., code urls, 
 
 
 ## Table of Contents
-- [Awesome Spatial Reasoning](#Awesome Spatial Reasoning)
+- [Awesome-Spatial-Reasoning](#Awesome-Spatial-Reasoning)
   - [Overview](#Overview-of-Embodied-Multimodal-LLMs)
   - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets-&-Benchmark)
