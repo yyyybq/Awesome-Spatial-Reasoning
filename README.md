@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Awesome Spatial Intelligence in LLM/VLM</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
-    <img src=https://img.shields.io/github/stars/tulerfeng/Awesome-Embodied-Multimodal-LLMs.svg?style=social >
+    <img src=https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning.svg?style=social >
 </div>
 
 This is a collection of research papers about Spatial Intelligence in LLM or VLM.
