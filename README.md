@@ -14,8 +14,9 @@ If you would like to include your paper or update any details (e.g., code urls, 
 ## Table of Contents
 - [Awesome-Embodied-Multimodal-LLMs](#Awesome-Embodied-Multimodal-LLMs)
   - [Overview](#Overview-of-Embodied-Multimodal-LLMs)
-  - [Models](#Models)
+  - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets-&-Benchmark)
+  - [Applications](#Applications)
 
 
 
