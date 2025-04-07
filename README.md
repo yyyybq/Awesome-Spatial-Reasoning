@@ -4,7 +4,7 @@
     <img src=https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning.svg?style=social >
 </div>
 
-This is a collection of research papers about Spatial Intelligence in LLM or VLM.
+This is a collection of research papers about Spatial Intelligence in LLM or VLM. 
 
 If you would like to include your paper or update any details (e.g., code urls, conference information), please feel free to submit a pull request or email me. Any advice is also welcome.
 
