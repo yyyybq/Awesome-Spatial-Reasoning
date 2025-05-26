@@ -40,6 +40,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 | <br/>[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) |   <img width="700" alt="image" src="imgs/SpaceR.png">   | 2025-04 |          [Github](https://github.com/OuyangKun10/SpaceR)         |
 | <br/>[Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) |   <img width="700" alt="image" src="imgs/Embodied-R.png">   | 2025-04 |          [Github](https://github.com/EmbodiedCity/Embodied-R.code)   |
 | <br/>[SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning](https://arxiv.org/abs/2504.20024) |   <img width="700" alt="image" src="imgs/SpatialReasoner.png">   | 2025-04 |  [Github](https://spatial-reasoner.github.io/) |
+| <br/>[ROSS3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](https://arxiv.org/pdf/2504.01901) |   <img width="700" alt="image" src="imgs/Ross3D.png">   | 2025-04 |      [Github](https://github.com/haochen-wang409/ross3d)   |
 | <br/>[SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data](https://arxiv.org/abs/2504.20648) |   <img width="700" alt="image" src="imgs/SpaRE.png">   | 2025-04 |      -     |
 | <br/>[Visual Agentic AI for Spatial Reasoning with a Dynamic API](https://arxiv.org/pdf/2502.06787) |   <img width="700" alt="image" src="imgs/VADAR.png">   | 2025-02 |         [Github](https://glab-caltech.github.io/vadar/)         |
 | <br/>[SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/abs/2501.10074) |   <img width="700" alt="image" src="imgs/SpatialCoT.jpg">   | 2025-01 |         [Github](https://spatialcot.github.io/)         |
@@ -106,6 +107,8 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ## Findings
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+|  <br/>[A Call for New Recipes to Enhance Spatial Reasoning in MLLMs](https://arxiv.org/pdf/2504.15037) |   <img width="700" alt="image" src="imgs/call.png">   | 2025-03 |     [Github](https://aka.ms/GeneralAI)   |
+|  <br/>[Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773) |   <img width="700" alt="image" src="imgs/AdaptVIS.png">   | 2025-03 |     [Github](https://github.com/shiqichen17/AdaptVis)   |
 |  <br/>[Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models](https://arxiv.org/abs/2503.17349) |   <img width="700" alt="image" src="imgs/spatialaware.png">   | 2025-03 |     [Github](https://user074.github.io/respatialaware/)   |
 
 ## Applications
