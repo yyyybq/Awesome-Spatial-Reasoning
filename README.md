@@ -34,6 +34,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual based
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
+| <br/>[VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/pdf/2505.20279) |   <img width="700" alt="image" src="imgs/VLM-3R.png">   | 2025-05 |    [Github](https://github.com/VITA-Group/VLM-3R)   |
 | <br/>[LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/abs/2505.12253) |   <img width="700" alt="image" src="imgs/LLaVA-4D.png">   | 2025-05 |        -    |
 | <br/>[SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning](https://arxiv.org/abs/2505.12448) |   <img width="700" alt="image" src="imgs/SSR.png">   | 2025-05 |    [Github](https://yliu-cs.github.io/SSR)        |
 | <br/>[Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://arxiv.org/pdf/2504.17207) |   <img width="700" alt="image" src="imgs/APC.png">   | 2025-04 |     [Github](https://apc-vlm.github.io/)     |
