@@ -34,6 +34,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual based
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
+| <br/>[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2506.04308) | <img width="700" alt="image" src="imgs/RoboRefer.png"> | 2025-5 | [Github](https://github.com/Zhoues/RoboRefer) |
 | <br/>[Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/pdf/2505.24625) |   <img width="700" alt="image" src="imgs/VGLLM.png">   | 2025-05 |    [Github](https://lavi-lab.github.io/VG-LLM)   |
 | <br/>[ Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) |   <img width="700" alt="image" src="imgs/Spatial-MLLM.png">   | 2025-05 |    [Github](https://diankun-wu.github.io/Spatial-MLLM/)   |
 | <br/>[VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/pdf/2505.20279) |   <img width="700" alt="image" src="imgs/VLM-3R.png">   | 2025-05 |    [Github](https://github.com/VITA-Group/VLM-3R)   |
@@ -124,6 +125,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ## Applications
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+|  [![Publish](https://img.shields.io/badge/Conference-CVPR'25-green)]()<br/>[Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://arxiv.org/pdf/2412.04455) | <img width="700" alt="image" src="imgs/CAM.png"> | 2024-12 | [Github](https://zhoues.github.io/Code-as-Monitor/) |
 |  <br/>[SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models](https://arxiv.org/pdf/2505.04911) |   <img width="700" alt="image" src="imgs/SpatialPrompting.png">   | 2025-05 |   - |
 |  <br/>[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://arxiv.org/pdf/2505.13888) |   <img width="700" alt="image" src="imgs/InSpire.png">   | 2025-05 |     [Github](https://koorye.github.io/proj/Inspire) |
 |  <br/>[EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/pdf/2503.11089) |   <img width="700" alt="image" src="imgs/EmbodiedVSR.png">   | 2025-03 |   - |
