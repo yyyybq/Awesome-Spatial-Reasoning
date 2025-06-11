@@ -34,6 +34,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual based
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
+| <br/>[Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/pdf/2506.00123v1) | <img width="700" alt="image" src="imgs/Vebrain.png"> | 2025-5 | [Github](https://internvl.github.io/blog/2025-05-26-VeBrain/) |
 | <br/>[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2506.04308) | <img width="700" alt="image" src="imgs/RoboRefer.png"> | 2025-5 | [Github](https://github.com/Zhoues/RoboRefer) |
 | <br/>[Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/pdf/2505.24625) |   <img width="700" alt="image" src="imgs/VGLLM.png">   | 2025-05 |    [Github](https://lavi-lab.github.io/VG-LLM)   |
 | <br/>[ Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) |   <img width="700" alt="image" src="imgs/Spatial-MLLM.png">   | 2025-05 |    [Github](https://diankun-wu.github.io/Spatial-MLLM/)   |
@@ -71,6 +72,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual based
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+|  <br/>[SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) |   <img width="700" alt="image" src="imgs/SpaCE-10.png">   | 2025-06 |             [Github](https://github.com/VisionXLab/SpaCE-10) 
 |  <br/>[OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/pdf/2506.03135) |   <img width="700" alt="image" src="imgs/OmniSpatial.png">   | 2025-06 |             [Github](https://github.com/qizekun/OmniSpatial) 
 |  <br/>[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/pdf/2505.23764) |   <img width="700" alt="image" src="imgs/MMSI.png">   | 2025-05 |             [Github](https://runsenxu.com/projects/MMSI_Bench) 
 |  <br/>[Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models](https://arxiv.org/pdf/2505.17015) |   <img width="700" alt="image" src="imgs/Multi-SpatialMLLM.png">   | 2025-05 |             [Github](https://runsenxu.com/projects/Multi-SpatialMLLM)  
