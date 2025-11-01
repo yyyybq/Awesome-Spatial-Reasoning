@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>Awesome Spatial Intelligence in LLM/VLM</h1>
+    <h1>Awesome Spatial Intelligence in VLM</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <img src=https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning.svg?style=social >
 </div>
 
 
-This is a carefully curated and maintained list of resources, bringing together key papers, datasets, benchmarks, and code in the field of Spatial Reasoning.
+This is a carefully curated and maintained list of resources, bringing together key methods, datasets and benchmarks in the field of Spatial Intelligence in VLM .
 
 Spatial reasoning is a core capability for achieving Artificial General Intelligence (AGI) and Physical Intelligence. It requires models to not only "see" objects but to also understand their positions, relationships, geometry, and dynamic changes within the 3D world.
 
@@ -17,7 +17,7 @@ We welcome contributions of excellent resources you find via Pull Request!
 
 
 ## Table of Contents
-- [Awesome-Spatial-Reasoning](#Awesome-Spatial-Reasoning)
+- [Awesome Spatial Intelligence in VLM](#Awesome Spatial Intelligence in VLM)
   <!-- - [Overview](#Overview-of-Embodied-Multimodal-LLMs) -->
   - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets-&-Benchmark)
