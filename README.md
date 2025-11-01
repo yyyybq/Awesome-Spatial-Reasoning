@@ -4,28 +4,33 @@
     <img src=https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning.svg?style=social >
 </div>
 
-This is a collection of research papers about Spatial Intelligence in LLM or VLM. 
 
-If you would like to include your paper or update any details (e.g., code urls, conference information), please feel free to submit a pull request or email me. Any advice is also welcome.
+This is a carefully curated and maintained list of resources, bringing together key papers, datasets, benchmarks, and code in the field of Spatial Reasoning.
+
+Spatial reasoning is a core capability for achieving Artificial General Intelligence (AGI) and Physical Intelligence. It requires models to not only "see" objects but to also understand their positions, relationships, geometry, and dynamic changes within the 3D world.
+
+With the development of multi-modal models, evaluating and enhancing their spatial intelligence has become a key research frontier. This list aims to provide researchers and engineers with a quick index to track the latest advancements in the field.
+
+We welcome contributions of excellent resources you find via Pull Request!
 
 
 
 
 ## Table of Contents
 - [Awesome-Spatial-Reasoning](#Awesome-Spatial-Reasoning)
-  - [Overview](#Overview-of-Embodied-Multimodal-LLMs)
+  <!-- - [Overview](#Overview-of-Embodied-Multimodal-LLMs) -->
   - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets-&-Benchmark)
   - [Applications](#Applications)
 
 
 
-## Overview
+<!-- ## Overview
 
 
 
 Spatial thinking is the foundation of abstract thought. Human uses spatial thinking everywhere (math, 
-social network, flow chart, mind map). It's also important for LLM or VLM to build spatial cognition ability to perceive and interact with surroundings. We evaluate spatial ability based on text, single or multi-view images, 3d image or video as input. We enhance spatial ability with visual prompt, text input, image input or image input with 3D.
+social network, flow chart, mind map). It's also important for LLM or VLM to build spatial cognition ability to perceive and interact with surroundings. We evaluate spatial ability based on text, single or multi-view images, 3d image or video as input. We enhance spatial ability with visual prompt, text input, image input or image input with 3D. -->
 
 
 
