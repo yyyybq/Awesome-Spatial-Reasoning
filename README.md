@@ -181,7 +181,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ## Applications
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
-|  <br/>[Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model](https://arxiv.org/pdf/2505.04911) |   <img width="700" alt="image" src="imgs/SpatialForcing.png">   | 2025-10 | [Github](https://github.com/OpenHelix-Team/Spatial-Forcing) |
+|  <br/>[Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model](https://arxiv.org/pdf/2510.12276) |   <img width="700" alt="image" src="imgs/SpatialForcing.png">   | 2025-10 | [Github](https://github.com/OpenHelix-Team/Spatial-Forcing) |
 |  <br/>[SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models](https://arxiv.org/pdf/2505.04911) |   <img width="700" alt="image" src="imgs/SpatialPrompting.png">   | 2025-05 |   - |
 |  <br/>[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://arxiv.org/pdf/2505.13888) |   <img width="700" alt="image" src="imgs/InSpire.png">   | 2025-05 |     [Github](https://koorye.github.io/proj/Inspire) |
 |  <br/>[EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/pdf/2503.11089) |   <img width="700" alt="image" src="imgs/EmbodiedVSR.png">   | 2025-03 |   - |
